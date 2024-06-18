@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5zx6pvHWCdsrvnedr4j48Jbi+ML/9ycwOk4QMsFF2UIZdKvqdUN27t11KwgRW8QmeySd4IR5+PV/jv9RMjsEJw==",
+  "dgSpecHash": "2Nnl77lgwqw8h5nq7imu1iIQkux5xhYExrH8jewLuTTp1OcC7EyHfgenDdcSX20hCKEaFx6jaC5WIy2ODjvEqQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\rmnvs\\Documents\\Институт\\2 курс\\ОРПО_2\\Chedder_app\\Chedder_app.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rmnvs\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\rmnvs\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
   "logs": []
 }

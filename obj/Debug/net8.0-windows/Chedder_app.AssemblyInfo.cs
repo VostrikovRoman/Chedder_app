@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chedder_app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b94852f3c88efb6ba95e5cb0328e21e370d0393")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec86524cb8b1f684f67b0752e979dbe54811dc7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chedder_app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chedder_app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

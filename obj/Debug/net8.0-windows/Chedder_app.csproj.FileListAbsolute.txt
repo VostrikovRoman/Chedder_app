@@ -17,3 +17,13 @@ C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\
 C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.Main_menu_form.resources
 C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.Properties.Resources.resources
 C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.SignIn_form.resources
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.Admin_form.resources
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.Cash_form.resources
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.Cash.resources
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.Employers_form.resources
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.Kitchen_form.resources
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.Square_form.resources
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.csproj.AssemblyReference.cache
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\bin\Debug\net8.0-windows\Unity.Abstractions.dll
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\bin\Debug\net8.0-windows\Unity.Container.dll
+C:\Users\rmnvs\Documents\Институт\2 курс\ОРПО_2\Chedder_app\obj\Debug\net8.0-windows\Chedder_app.csproj.CopyComplete
