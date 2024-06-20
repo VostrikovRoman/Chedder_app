@@ -73,6 +73,26 @@ namespace Chedder_app.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap backward_1 {
+            get {
+                object obj = ResourceManager.GetObject("backward 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backward_11 {
+            get {
+                object obj = ResourceManager.GetObject("backward 11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cashier {
             get {
                 object obj = ResourceManager.GetObject("cashier", resourceCulture);
@@ -86,6 +106,16 @@ namespace Chedder_app.Properties {
         internal static System.Drawing.Bitmap chedder_logo {
             get {
                 object obj = ResourceManager.GetObject("chedder_logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap chedder_logo_red_circle {
+            get {
+                object obj = ResourceManager.GetObject("chedder_logo_red_circle", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -116,6 +146,16 @@ namespace Chedder_app.Properties {
         internal static System.Drawing.Bitmap Group_2 {
             get {
                 object obj = ResourceManager.GetObject("Group 2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Group_6 {
+            get {
+                object obj = ResourceManager.GetObject("Group 6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
