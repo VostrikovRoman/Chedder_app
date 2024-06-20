@@ -9,7 +9,7 @@ namespace Chedder_app
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new SignIn_form());
+            Application.Run(new Kitchen_form());
         }
     }
 }

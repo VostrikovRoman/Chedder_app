@@ -83,6 +83,16 @@ namespace Chedder_app.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap backward_11 {
+            get {
+                object obj = ResourceManager.GetObject("backward 11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cashier {
             get {
                 object obj = ResourceManager.GetObject("cashier", resourceCulture);
@@ -96,6 +106,16 @@ namespace Chedder_app.Properties {
         internal static System.Drawing.Bitmap chedder_logo {
             get {
                 object obj = ResourceManager.GetObject("chedder_logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap chedder_logo_red_circle {
+            get {
+                object obj = ResourceManager.GetObject("chedder_logo_red_circle", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

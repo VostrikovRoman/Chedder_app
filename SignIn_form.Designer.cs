@@ -94,6 +94,7 @@
             label2.Size = new Size(224, 76);
             label2.TabIndex = 2;
             label2.Text = "Войти";
+            label2.Click += sign_in_button_Click;
             // 
             // textBox3
             // 

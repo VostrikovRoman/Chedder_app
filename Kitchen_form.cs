@@ -16,5 +16,13 @@ namespace Chedder_app
         {
             InitializeComponent();
         }
+
+        private void back_btn_Click(object sender, EventArgs e)
+        {
+            Kitchen_form.ActiveForm.Hide();
+            Main_menu_form NewForm = new Main_menu_form();
+            NewForm.ShowDialog();
+            Close();
+        }
     }
 }
