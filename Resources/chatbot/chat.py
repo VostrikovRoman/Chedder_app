@@ -67,7 +67,7 @@ def bot_message(message):
             bot.send_message(message.chat.id, '📖  Меню', reply_markup=markup)
 
         elif message.text == 'Купить':
-            bot.send_message(message.chat.id, 'Покупка совершена!', reply_markup=markup)
+            bot.send_message(message.chat.id, 'Покупка совершена!')
 
         elif message.text == '🛒  Корзина':
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
