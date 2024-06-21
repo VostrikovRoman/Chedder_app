@@ -16,10 +16,7 @@ namespace Chedder_app
 
         private void cash_btn_Click(object sender, EventArgs e)
         {
-            Main_menu_form.ActiveForm.Hide();
-            Cash_form NewForm = new Cash_form();
-            NewForm.ShowDialog();
-            Close();
+            MessageBox.Show("Приносим извинения за неудобство - раздел не работает");
         }
 
         private void kitchen_btn_Click(object sender, EventArgs e)
